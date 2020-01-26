@@ -6,4 +6,3 @@
 - CSS3
 - JavaScript
 - Bootstrap 4
-- готовое решение-слайдер: https://kenwheeler.github.io/slick/
